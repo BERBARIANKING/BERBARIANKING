@@ -1,5 +1,5 @@
 ### Hi, I'm Nikolas 👨‍💻👋
-
+### I'm a Computer Engineering Student based in Greece ! 
 
 
 ![](https://github.com/BERBARIANKING/BERBARIANKING/blob/main/computer.gif)
