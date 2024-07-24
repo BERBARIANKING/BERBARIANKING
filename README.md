@@ -6,7 +6,7 @@
 
 
 
-![GitHub Snake Contribution](https://raw.githubusercontent.com/BERBARIANKING/BERBARIANKING/main/snake)
+![GitHub Snake Contribution](https://raw.githubusercontent.com/BERBARIANKING/BERBARIANKING/main/snake.svg)
 
 
 
