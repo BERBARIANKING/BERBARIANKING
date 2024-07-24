@@ -7,8 +7,6 @@
 
 
 
-![snake gif](https://github.com/BERBARIANKING/BERBARIANKING/blob/output/github-contribution-grid-snake.gif)
-
 
 
 <h2 align="left">Languages and Tools:</h2>
